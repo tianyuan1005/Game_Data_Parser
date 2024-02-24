@@ -1,0 +1,6 @@
+[2/23/2024 9:08:53 PM]
+        Exception message: '{' is invalid after a value. Expected either ',', '}', or ']'. Path: $[1] | LineNumber: 6 | BytePositionInLine: 2. The file is: gamesInvalidFormat.json
+        Stack trace:    at GameDataParserApp.Run() in /Users/tianyuan/Projects/GameDataParser/GameDataParser/Program.cs:line 65
+   at Program.<Main>$(String[] args) in /Users/tianyuan/Projects/GameDataParser/GameDataParser/Program.cs:line 8
+
+    
